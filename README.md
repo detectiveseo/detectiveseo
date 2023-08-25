@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Imran
 ##  a seasoned Full Stack Web Developer with a specialization in MongoDB, Node.js, and Express.
-![Full Stack Web Developer](https://images.alphacoders.com/121/1218911.jpg)
+![Full Stack Web Developer](https://i.ibb.co/nQhP1xT/wallpaperflare-com-wallpaper.jpg)
 
  💼 I have a wealth of experience working with these technologies, utilizing MongoDB as my go-to database solution. With its flexibility and scalability, I've successfully designed and implemented robust backend systems to handle complex data structures and ensure efficient data management.
 
@@ -15,6 +15,10 @@
 
  Excited to take on new challenges and create innovative solutions together! Let's connect and make a difference in the world of web development. ✨
 
-## Skills: REACT / JS / HTML / CSS /WORDPRESS
+# Skills: 
 
 #- 🔭 I’m currently working on detectiveseo
+### Expertise: HTML, CSS, Tailwind CSS, Bootstrap, Daisy UI, JavaScript, React Js, Node Js, MongoDB, Express Js, Firebase. 
+### Familiar: Material UI, Next JS, Redux, Three JS,  Framer Motion, MySQL. 
+### Tools: GitHub, VS-Code, Postman, C-panel,  Netlify, Vercel, Render, Figma, npm, yarn,
+### Interpersonal skill: Linux, Teamwork, Communication, Time Management, Adaptability
