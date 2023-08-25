@@ -13,7 +13,7 @@
 
 ### 🌟 Currently, I'm actively seeking new opportunities to contribute my expertise as a Full Stack Web Developer. I'm passionate about collaborating with cross-functional teams, solving complex problems, and delivering high-quality software solutions.
 
-### 📫 If you're in need of a skilled and experienced developer to help bring your ideas to life, feel free to reach out to me through my GitHub profile or by email at detectiveseo1@gmail.com. Let's discuss how I can assist you in building robust and scalable web applications using MongoDB, Node.js, and Express!
+### 📫 If you're in need of a skilled and experienced developer to help bring your ideas to life, feel free to reach out to me through my GitHub profile or by email at imran0dot@gmail.com. Let's discuss how I can assist you in building robust and scalable web applications using MongoDB, Node.js, and Express!
 
 ## Excited to take on new challenges and create innovative solutions together! Let's connect and make a difference in the world of web development. ✨
 
