@@ -1,5 +1,5 @@
 
-![Full Stack Web Developer](https://i.ibb.co/nQhP1xT/wallpaperflare-com-wallpaper.jpg)
+![Full Stack Web Developer](https://media.licdn.com/dms/image/D5616AQE9e8t_3SIZkQ/profile-displaybackgroundimage-shrink_350_1400/0/1693374304058?e=1698883200&v=beta&t=jXfnytKZTmQo1-JSPf98BisnhYIL-PPsNc4kRGCbwgU)
 
 # 👋 Hi there! I'm Imran
 ##  a seasoned Full Stack Web Developer with a specialization in MongoDB, Node.js, and Express.
